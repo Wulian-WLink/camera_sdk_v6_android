@@ -1,0 +1,2 @@
+# camera_sdk_v6_android
+camera_sdk_v6_android
